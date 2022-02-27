@@ -45,60 +45,38 @@ profile: |
 
 # Experience
 experience:
-  - role: Writter 
-    time: 2014-2020
-    company: Koutouki-Restaurt
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Metre 
-    time: 2021-Present
+  - role: Runner 
+    time: 2014-2015
     company: Koutouki-Restaurant
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+      At my first year in this restaurant I worked as a Runner.  
+    skills: | 
+      Quick and efficient Working
+  
+  - role: Server/Host
+    time: 2015-2020
+    company: Koutouki-Restaurant
+    details: |
+      After one year as Runner. The boss conceded that my communication skills with customers and my attitude was professional. So he hired me as Server/Host to take care our customers and give them the best experience. Without order or bill delays and ofcorse I was there to solve any problem.
+    skills: | 
+      Excellent memory, Ability to work under pressure
+   
+   - role: Assistant Manager
+     time: 2021-Present
+     company: Koutouki-Restaurant
+     details: |
+       Since April 2021 I hired as Assistant Manager. As Assistant Manager I worked with the General Manager to hire more effi____ employees and fire the less productive to have a good team for the last Summer season. We created a more effinced marketing plan too. I take care of the paperwork and I'm responsible to order some of the products and supplies the restaurant needs.
+     skills: |
+       Problem-solving skills, Excellent organization skills
 
 projects:
-  - title: Cool Project 
+  - title: Arduino Star-Tracker 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      I have create a DIY Star-Tracker for Astrophotografy. Used a wooden handmade structure and an Arduino Uno with a stepper to simulate earth's movement.
 
-  - title: Cool Project 
+  - title: Voice Changer
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      I'm creating a Voice Changer program using Octave.
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 

@@ -1,0 +1,12 @@
+{% assign hobbies = site.data.data.hobbies %}
+{% if hobbies %}
+<section class="hobbies">
+    {% for sks in hobbies %}
+        <div class="title">{{sks.category}} </div>
+        {% for sk in sks.hobby%}
+            <div class="hobby">{{sk}}</div>
+        {% endfor %}
+    {% endfor %}
+</section>
+{% endif %}
+

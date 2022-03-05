@@ -12,36 +12,39 @@ contact:
   twitter: 
 
 languages:
-  - idiom: English
   - idiom: Greek
+  - idiom: English
   - idiom: 
 
 education:
-  - Student: Student IT
+  - degree: Undergraduate in IT
     time: 2016-Present
     university: Ionian University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: ECLD Core
+    time: 2010-2012
+    university: 
 
 skills:
   - category: Programming
     skill: 
       - Python
       - 
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: Photo Editing
+  - category: Editing
     skill:
       - Lightroom
       - Photoshop
 
+hobbies:
+  - category: Hobbies
+    hobby:
+      - Photografy
+      - Gaming
+
+
 # Profile
 profile: |
-  I am from Lefkada. I started my education at IT in Ionio University.
+  I am from Lefkada. I'm undergraduate in IT at Ionio University since 2016.
 
 # Experience
 experience:

@@ -1,3 +1,3 @@
 # My CV //jekyll// 
 
-  This is my CV
+  This is simple jekyll CV

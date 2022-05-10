@@ -16,8 +16,7 @@ contact:
   github: ApoLaz
   linkedin: 
   phone: 69xxxxxxxx
-  gitlab: 
-  twitter: 
+   
 
 languages:
   - idiom: Greek
@@ -40,14 +39,12 @@ skills:
       - 
   - category: Editing
     skill:
-      - Lightroom
-      - Photoshop
+      - Lightroom, Photoshop
 
 hobbies:
   - category: Hobbies
     hobby:
-      - Photografy
-      - Gaming
+      - Photography, Gaming
 
 
 # Profile

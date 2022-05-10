@@ -1,3 +1,11 @@
+---
+# Settings
+mainfont: Hoefler Text Regular.ttf
+fontsize: 10pt
+lang: en-GB
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+
+
 name: Apostolis Lazaris
 support_dark_mode: true
 fork: true
@@ -82,4 +90,4 @@ projects:
     link: #
     details: |
       I'm creating a Voice Changer program using Octave.
-
+---
